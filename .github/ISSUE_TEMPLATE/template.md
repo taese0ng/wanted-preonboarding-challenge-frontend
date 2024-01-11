@@ -1,7 +1,7 @@
 ---
-name: 프리온보팅 챌린지 사전과제 템플릿
+name: 프리온보딩 챌린지 사전과제 템플릿
 about: Describe this issue template's purpose here.
-title: "[제출일] 챌린지 사전 과제 - 이름"
+title: "[제출일] 사전 과제 - 이름"
 labels: ''
 assignees: ''
 
