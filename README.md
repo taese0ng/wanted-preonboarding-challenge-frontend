@@ -1,1 +1,13 @@
-# wanted-preonboarding-challenge-frontend
+# 원티드 프리온보딩 프론트엔드 챌린지 사전과제
+## 과제
+1. SSR과 CSR에서의 주요 차이점은 무엇인가요?
+2. React와 Next.js중 어떤 상황에서 각각을 선택해야 하나요?
+3. PWA를 구현할 때 Service Worker의 역할은 무엇인가요?
+4. SSR, CSR, SPA, PWA, Electron등 다양한 전략이 있는데, 각 전략들은 어떤 상황에 사용되는 것이 적합하며 비즈니스에 어떤 이점을 가져다줄까요?
+
+   
+## 과제 제출 방법
+- 저장소의 `Issues` 탭으로 들어가서 `New issue`를 클릭합니다.
+- `Get Started` 버튼을 누릅니다.
+- 제목에 `제출일`, `이름`을 작성해서 질문에 대한 답변을 작성합니다.
+- `Submit new issue`를 눌러서 제출합니다.
